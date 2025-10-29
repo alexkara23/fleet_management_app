@@ -1,0 +1,47 @@
+import { Record } from '@servicenow/sdk/core'
+
+Record({
+    $id: Now.ID['4308608b47f0729092dc8c0fe16d435a'],
+    table: 'sysevent_email_action',
+    data: {
+        action_insert: true,
+        action_update: false,
+        active: true,
+        category: '40e72c4b47f0729092dc8c0fe16d43eb',
+        collection: 'x_snc_fleet_manage_fleet_management_task',
+        content_type: 'text/html',
+        default_digest: 'false',
+        digest_separator_html: `<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>`,
+        digest_separator_text: '\n--------------------------------------------------------------------------------\n',
+        digest_type: 'single',
+        digestable: false,
+        enable_dynamic_translation: false,
+        event_name: 'activate.life.cycle.migration',
+        event_parm_1: false,
+        event_parm_2: false,
+        exclude_delegates: false,
+        force_delivery: false,
+        generation_type: 'engine',
+        include_attachments: false,
+        item: 'event.parm1',
+        mandatory: false,
+        message_html:
+            '<p>A new maintenance task has been created and assigned to your team:<br><br><br>Short description: ${short_description}<br>Description: ${description}<br>Opened by: ${opened_by}<br><br>You can view this request in the platform by following the link: ${URI}</p>',
+        name: 'New Maintenance - Assignment Group',
+        omit_watermark: false,
+        order: 100,
+        push_message_only: false,
+        recipient_fields: 'assignment_group',
+        send_self: true,
+        subject: 'A new vehicle maintenance task has been created',
+        subscribable: false,
+        sys_domain: 'global',
+        sys_domain_path: '/',
+        sys_version: 2,
+        template: '7ed0481f3b0b2200c869c2c703efc487',
+        type: 'email',
+        weight: 0,
+    },
+})

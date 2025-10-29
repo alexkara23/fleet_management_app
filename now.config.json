@@ -1,0 +1,11 @@
+{
+    "scope": "x_snc_fleet_manage",
+    "scopeId": "5e6f900f47b0729092dc8c0fe16d437d",
+    "name": "Fleet Management",
+    "accessControls": {
+        "runtimeAccessTracking": "none"
+    },
+    "licensing": {
+        "enforceLicense": "none"
+    }
+}
