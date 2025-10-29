@@ -9,6 +9,10 @@ declare global {
                         table: 'fx_price'
                         id: '1437e40b47f0729092dc8c0fe16d43b2'
                     }
+                    '16648d4347b4729092dc8c0fe16d4362': {
+                        table: 'sys_script'
+                        id: '16648d4347b4729092dc8c0fe16d4362'
+                    }
                     '16d6ecc747f0729092dc8c0fe16d4394': {
                         table: 'fx_price'
                         id: '16d6ecc747f0729092dc8c0fe16d4394'
