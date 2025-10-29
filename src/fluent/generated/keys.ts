@@ -5,9 +5,201 @@ declare global {
         namespace Internal {
             interface Keys extends KeysRegistry {
                 explicit: {
+                    '1437e40b47f0729092dc8c0fe16d43b2': {
+                        table: 'fx_price'
+                        id: '1437e40b47f0729092dc8c0fe16d43b2'
+                    }
+                    '16d6ecc747f0729092dc8c0fe16d4394': {
+                        table: 'fx_price'
+                        id: '16d6ecc747f0729092dc8c0fe16d4394'
+                    }
+                    '19c66cc747f0729092dc8c0fe16d438b': {
+                        table: 'fx_price'
+                        id: '19c66cc747f0729092dc8c0fe16d438b'
+                    }
+                    '26c6acc747f0729092dc8c0fe16d431d': {
+                        table: 'item_option_new'
+                        id: '26c6acc747f0729092dc8c0fe16d431d'
+                    }
+                    '2e98e88b47f0729092dc8c0fe16d43a5': {
+                        table: 'item_option_new'
+                        id: '2e98e88b47f0729092dc8c0fe16d43a5'
+                    }
+                    '31f1600347f0729092dc8c0fe16d4341': {
+                        table: 'sys_security_acl'
+                        id: '31f1600347f0729092dc8c0fe16d4341'
+                    }
+                    '3ac42c0747f0729092dc8c0fe16d4302': {
+                        table: 'sys_dictionary_override'
+                        id: '3ac42c0747f0729092dc8c0fe16d4302'
+                    }
+                    '40e72c4b47f0729092dc8c0fe16d43eb': {
+                        table: 'sys_notification_category'
+                        id: '40e72c4b47f0729092dc8c0fe16d43eb'
+                    }
+                    '4308608b47f0729092dc8c0fe16d435a': {
+                        table: 'sysevent_email_action'
+                        id: '4308608b47f0729092dc8c0fe16d435a'
+                    }
+                    '60672c0b47f0729092dc8c0fe16d4326': {
+                        table: 'catalog_ui_policy'
+                        id: '60672c0b47f0729092dc8c0fe16d4326'
+                    }
+                    '6517600b47f0729092dc8c0fe16d4374': {
+                        table: 'item_option_new'
+                        id: '6517600b47f0729092dc8c0fe16d4374'
+                    }
+                    '67d8a0cb47f0729092dc8c0fe16d433e': {
+                        table: 'fx_price'
+                        id: '67d8a0cb47f0729092dc8c0fe16d433e'
+                    }
+                    '71f1600347f0729092dc8c0fe16d430e': {
+                        table: 'sys_security_acl'
+                        id: '71f1600347f0729092dc8c0fe16d430e'
+                    }
+                    '75f1200347f0729092dc8c0fe16d43f4': {
+                        table: 'sys_app_module'
+                        id: '75f1200347f0729092dc8c0fe16d43f4'
+                    }
+                    '7a57e80b47f0729092dc8c0fe16d436d': {
+                        table: 'fx_price'
+                        id: '7a57e80b47f0729092dc8c0fe16d436d'
+                    }
+                    '9386a4c747f0729092dc8c0fe16d4372': {
+                        table: 'fx_price'
+                        id: '9386a4c747f0729092dc8c0fe16d4372'
+                    }
+                    ad776c0b47f0729092dc8c0fe16d43fb: {
+                        table: 'catalog_ui_policy_action'
+                        id: 'ad776c0b47f0729092dc8c0fe16d43fb'
+                    }
+                    afd8a0cb47f0729092dc8c0fe16d433e: {
+                        table: 'fx_price'
+                        id: 'afd8a0cb47f0729092dc8c0fe16d433e'
+                    }
+                    b257e80b47f0729092dc8c0fe16d436e: {
+                        table: 'fx_price'
+                        id: 'b257e80b47f0729092dc8c0fe16d436e'
+                    }
+                    b3b9280f47f0729092dc8c0fe16d43d3: {
+                        table: 'sys_ui_element'
+                        id: 'b3b9280f47f0729092dc8c0fe16d43d3'
+                    }
+                    b3b9280f47f0729092dc8c0fe16d43d4: {
+                        table: 'sys_ui_element'
+                        id: 'b3b9280f47f0729092dc8c0fe16d43d4'
+                    }
+                    b3b9280f47f0729092dc8c0fe16d43d5: {
+                        table: 'sys_ui_element'
+                        id: 'b3b9280f47f0729092dc8c0fe16d43d5'
+                    }
+                    b3b9280f47f0729092dc8c0fe16d43d6: {
+                        table: 'sys_ui_element'
+                        id: 'b3b9280f47f0729092dc8c0fe16d43d6'
+                    }
+                    b3b9280f47f0729092dc8c0fe16d43d7: {
+                        table: 'sys_ui_element'
+                        id: 'b3b9280f47f0729092dc8c0fe16d43d7'
+                    }
+                    b3b9280f47f0729092dc8c0fe16d43d8: {
+                        table: 'sys_ui_element'
+                        id: 'b3b9280f47f0729092dc8c0fe16d43d8'
+                    }
+                    b3b9280f47f0729092dc8c0fe16d43d9: {
+                        table: 'sys_ui_element'
+                        id: 'b3b9280f47f0729092dc8c0fe16d43d9'
+                    }
+                    b3b9280f47f0729092dc8c0fe16d43da: {
+                        table: 'sys_ui_element'
+                        id: 'b3b9280f47f0729092dc8c0fe16d43da'
+                    }
+                    b9f1600347f0729092dc8c0fe16d4309: {
+                        table: 'sys_ui_module'
+                        id: 'b9f1600347f0729092dc8c0fe16d4309'
+                    }
+                    ba12e40347f0729092dc8c0fe16d43ae: {
+                        table: 'sys_ui_section'
+                        id: 'ba12e40347f0729092dc8c0fe16d43ae'
+                    }
+                    bbb9280f47f0729092dc8c0fe16d43d2: {
+                        table: 'sys_ui_element'
+                        id: 'bbb9280f47f0729092dc8c0fe16d43d2'
+                    }
+                    bbb9280f47f0729092dc8c0fe16d43d3: {
+                        table: 'sys_ui_element'
+                        id: 'bbb9280f47f0729092dc8c0fe16d43d3'
+                    }
+                    bbb9280f47f0729092dc8c0fe16d43d4: {
+                        table: 'sys_ui_element'
+                        id: 'bbb9280f47f0729092dc8c0fe16d43d4'
+                    }
+                    bbb9280f47f0729092dc8c0fe16d43d5: {
+                        table: 'sys_ui_element'
+                        id: 'bbb9280f47f0729092dc8c0fe16d43d5'
+                    }
+                    bbb9280f47f0729092dc8c0fe16d43d6: {
+                        table: 'sys_ui_element'
+                        id: 'bbb9280f47f0729092dc8c0fe16d43d6'
+                    }
+                    bbb9280f47f0729092dc8c0fe16d43d7: {
+                        table: 'sys_ui_element'
+                        id: 'bbb9280f47f0729092dc8c0fe16d43d7'
+                    }
+                    bbb9280f47f0729092dc8c0fe16d43d8: {
+                        table: 'sys_ui_element'
+                        id: 'bbb9280f47f0729092dc8c0fe16d43d8'
+                    }
+                    bbb9280f47f0729092dc8c0fe16d43d9: {
+                        table: 'sys_ui_element'
+                        id: 'bbb9280f47f0729092dc8c0fe16d43d9'
+                    }
+                    bbd834434774729092dc8c0fe16d4319: {
+                        table: 'sysrule_assignment'
+                        id: 'bbd834434774729092dc8c0fe16d4319'
+                    }
                     bom_json: {
                         table: 'sys_module'
                         id: 'bfd5b6c59dcb4f2789a825c85a0e17d9'
+                    }
+                    d147680b47f0729092dc8c0fe16d4324: {
+                        table: 'item_option_new'
+                        id: 'd147680b47f0729092dc8c0fe16d4324'
+                    }
+                    d837e40b47f0729092dc8c0fe16d43b1: {
+                        table: 'fx_price'
+                        id: 'd837e40b47f0729092dc8c0fe16d43b1'
+                    }
+                    dad6ecc747f0729092dc8c0fe16d4393: {
+                        table: 'fx_price'
+                        id: 'dad6ecc747f0729092dc8c0fe16d4393'
+                    }
+                    ddc66cc747f0729092dc8c0fe16d438a: {
+                        table: 'fx_price'
+                        id: 'ddc66cc747f0729092dc8c0fe16d438a'
+                    }
+                    f206e88747f0729092dc8c0fe16d4313: {
+                        table: 'sc_cat_item_producer'
+                        id: 'f206e88747f0729092dc8c0fe16d4313'
+                    }
+                    f5f1200347f0729092dc8c0fe16d43ef: {
+                        table: 'sys_app_application'
+                        id: 'f5f1200347f0729092dc8c0fe16d43ef'
+                    }
+                    f5f1600347f0729092dc8c0fe16d4325: {
+                        table: 'sys_security_acl'
+                        id: 'f5f1600347f0729092dc8c0fe16d4325'
+                    }
+                    f5f1600347f0729092dc8c0fe16d4339: {
+                        table: 'sys_security_acl'
+                        id: 'f5f1600347f0729092dc8c0fe16d4339'
+                    }
+                    fba62cc747f0729092dc8c0fe16d4311: {
+                        table: 'item_option_new'
+                        id: 'fba62cc747f0729092dc8c0fe16d4311'
+                    }
+                    fdf1600347f0729092dc8c0fe16d4305: {
+                        table: 'sys_ui_application'
+                        id: 'fdf1600347f0729092dc8c0fe16d4305'
                     }
                     package_json: {
                         table: 'sys_module'
@@ -75,6 +267,13 @@ declare global {
                         }
                     },
                     {
+                        table: 'ua_table_licensing_config'
+                        id: '8f05739c268f44a4848887569f4ff785'
+                        key: {
+                            name: 'x_snc_fleet_manage_fleet_management_task'
+                        }
+                    },
+                    {
                         table: 'sys_choice'
                         id: '9895b700bfe34b0886b97898f2f2da16'
                         key: {
@@ -112,6 +311,7 @@ declare global {
                     {
                         table: 'sys_documentation'
                         id: 'b4b4e40747f0729092dc8c0fe16d4323'
+                        deleted: true
                         key: {
                             name: 'x_snc_fleet_manage_fleet_management_task'
                             element: 'cmdb_ci'
