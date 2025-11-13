@@ -29,9 +29,17 @@ declare global {
                         table: 'item_option_new'
                         id: '2e98e88b47f0729092dc8c0fe16d43a5'
                     }
+                    '30c86a3783013210304b3d226daad3a7': {
+                        table: 'fx_price'
+                        id: '30c86a3783013210304b3d226daad3a7'
+                    }
                     '31f1600347f0729092dc8c0fe16d4341': {
                         table: 'sys_security_acl'
                         id: '31f1600347f0729092dc8c0fe16d4341'
+                    }
+                    '38c86a3783013210304b3d226daad3a2': {
+                        table: 'fx_price'
+                        id: '38c86a3783013210304b3d226daad3a2'
                     }
                     '3ac42c0747f0729092dc8c0fe16d4302': {
                         table: 'sys_dictionary_override'
@@ -48,6 +56,10 @@ declare global {
                     '60672c0b47f0729092dc8c0fe16d4326': {
                         table: 'catalog_ui_policy'
                         id: '60672c0b47f0729092dc8c0fe16d4326'
+                    }
+                    '60c86a3783013210304b3d226daad397': {
+                        table: 'fx_price'
+                        id: '60c86a3783013210304b3d226daad397'
                     }
                     '6517600b47f0729092dc8c0fe16d4374': {
                         table: 'item_option_new'
@@ -181,9 +193,21 @@ declare global {
                         table: 'fx_price'
                         id: 'ddc66cc747f0729092dc8c0fe16d438a'
                     }
+                    e0c86a3783013210304b3d226daad393: {
+                        table: 'fx_price'
+                        id: 'e0c86a3783013210304b3d226daad393'
+                    }
+                    e4c86a3783013210304b3d226daad38f: {
+                        table: 'fx_price'
+                        id: 'e4c86a3783013210304b3d226daad38f'
+                    }
                     f206e88747f0729092dc8c0fe16d4313: {
                         table: 'sc_cat_item_producer'
                         id: 'f206e88747f0729092dc8c0fe16d4313'
+                    }
+                    f4c86a3783013210304b3d226daad3a4: {
+                        table: 'fx_price'
+                        id: 'f4c86a3783013210304b3d226daad3a4'
                     }
                     f5f1200347f0729092dc8c0fe16d43ef: {
                         table: 'sys_app_application'

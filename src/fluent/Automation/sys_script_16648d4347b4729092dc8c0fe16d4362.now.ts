@@ -8,8 +8,7 @@ BusinessRule({
     action: ['insert'],
     filterCondition: 'opened_by.vip=true^EQ',
     script: `(function executeRule(current, previous /*null when async*/) {
-
-	//example change sbox2
+	//sb2
 	current.priority = 2;
 	current.work_notes = "Caller is VIP - setting high priority for the task";
 
