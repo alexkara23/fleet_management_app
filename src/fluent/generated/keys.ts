@@ -9,6 +9,10 @@ declare global {
                         table: 'fx_price'
                         id: '1437e40b47f0729092dc8c0fe16d43b2'
                     }
+                    '16648d4347b4729092dc8c0fe16d4362': {
+                        table: 'sys_script'
+                        id: '16648d4347b4729092dc8c0fe16d4362'
+                    }
                     '16d6ecc747f0729092dc8c0fe16d4394': {
                         table: 'fx_price'
                         id: '16d6ecc747f0729092dc8c0fe16d4394'
@@ -25,9 +29,21 @@ declare global {
                         table: 'item_option_new'
                         id: '2e98e88b47f0729092dc8c0fe16d43a5'
                     }
+                    '30c86a3783013210304b3d226daad3a3': {
+                        table: 'fx_price'
+                        id: '30c86a3783013210304b3d226daad3a3'
+                    }
+                    '30c86a3783013210304b3d226daad3a7': {
+                        table: 'fx_price'
+                        id: '30c86a3783013210304b3d226daad3a7'
+                    }
                     '31f1600347f0729092dc8c0fe16d4341': {
                         table: 'sys_security_acl'
                         id: '31f1600347f0729092dc8c0fe16d4341'
+                    }
+                    '38c86a3783013210304b3d226daad3a2': {
+                        table: 'fx_price'
+                        id: '38c86a3783013210304b3d226daad3a2'
                     }
                     '3ac42c0747f0729092dc8c0fe16d4302': {
                         table: 'sys_dictionary_override'
@@ -45,6 +61,10 @@ declare global {
                         table: 'catalog_ui_policy'
                         id: '60672c0b47f0729092dc8c0fe16d4326'
                     }
+                    '60c86a3783013210304b3d226daad397': {
+                        table: 'fx_price'
+                        id: '60c86a3783013210304b3d226daad397'
+                    }
                     '6517600b47f0729092dc8c0fe16d4374': {
                         table: 'item_option_new'
                         id: '6517600b47f0729092dc8c0fe16d4374'
@@ -52,6 +72,10 @@ declare global {
                     '67d8a0cb47f0729092dc8c0fe16d433e': {
                         table: 'fx_price'
                         id: '67d8a0cb47f0729092dc8c0fe16d433e'
+                    }
+                    '68c86a3783013210304b3d226daad397': {
+                        table: 'fx_price'
+                        id: '68c86a3783013210304b3d226daad397'
                     }
                     '71f1600347f0729092dc8c0fe16d430e': {
                         table: 'sys_security_acl'
@@ -68,6 +92,10 @@ declare global {
                     '9386a4c747f0729092dc8c0fe16d4372': {
                         table: 'fx_price'
                         id: '9386a4c747f0729092dc8c0fe16d4372'
+                    }
+                    a8c86a3783013210304b3d226daad391: {
+                        table: 'fx_price'
+                        id: 'a8c86a3783013210304b3d226daad391'
                     }
                     ad776c0b47f0729092dc8c0fe16d43fb: {
                         table: 'catalog_ui_policy_action'
@@ -177,9 +205,25 @@ declare global {
                         table: 'fx_price'
                         id: 'ddc66cc747f0729092dc8c0fe16d438a'
                     }
+                    e0c86a3783013210304b3d226daad393: {
+                        table: 'fx_price'
+                        id: 'e0c86a3783013210304b3d226daad393'
+                    }
+                    e4c86a3783013210304b3d226daad38f: {
+                        table: 'fx_price'
+                        id: 'e4c86a3783013210304b3d226daad38f'
+                    }
+                    e8c86a3783013210304b3d226daad393: {
+                        table: 'fx_price'
+                        id: 'e8c86a3783013210304b3d226daad393'
+                    }
                     f206e88747f0729092dc8c0fe16d4313: {
                         table: 'sc_cat_item_producer'
                         id: 'f206e88747f0729092dc8c0fe16d4313'
+                    }
+                    f4c86a3783013210304b3d226daad3a4: {
+                        table: 'fx_price'
+                        id: 'f4c86a3783013210304b3d226daad3a4'
                     }
                     f5f1200347f0729092dc8c0fe16d43ef: {
                         table: 'sys_app_application'
@@ -196,6 +240,10 @@ declare global {
                     fba62cc747f0729092dc8c0fe16d4311: {
                         table: 'item_option_new'
                         id: 'fba62cc747f0729092dc8c0fe16d4311'
+                    }
+                    fcc86a3783013210304b3d226daad3b3: {
+                        table: 'fx_price'
+                        id: 'fcc86a3783013210304b3d226daad3b3'
                     }
                     fdf1600347f0729092dc8c0fe16d4305: {
                         table: 'sys_ui_application'
